@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\core",
+    "\\backend\\core\\tickets_api"
+  ],
+  "SelectedNode": "\\backend\\core\\tickets_api\\models.py",
+  "PreviewInSolutionExplorer": false
+}
